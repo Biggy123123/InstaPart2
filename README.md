@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://github.com/Biggy123123/InstaPart2/blob/main/XRecorder_27082022_085748%5B1%5D.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Biggy123123/InstaPart2/blob/main/XRecorder_31082022_055421%5B1%5D.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
